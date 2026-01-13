@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アメニモマケル",
+  "base_artist": "goodtimes",
+  "createdAt": "2026-01-13T08:59:51.438541Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アメニモマケル",
+      "artist": "goodtimes",
+      "has_synced": false,
+      "path": "select/pl_01_アメニモマケル_goodtimes.txt"
+    }
+  ]
+}
